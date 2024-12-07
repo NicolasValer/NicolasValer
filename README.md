@@ -5,6 +5,8 @@
 
 ![NicolasValer GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasValer&show_icons=true&theme=highcontrast)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasValer&hide_progress=true)
+
 ## Tecnologias que eu uso
 
 <div style=!siplay: inline_block"><br/>
